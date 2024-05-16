@@ -8,5 +8,5 @@ function component() {
 
   return element;
 }
-
+console.log("LOGING");
 document.body.appendChild(component());
